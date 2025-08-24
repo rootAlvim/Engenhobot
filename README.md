@@ -42,7 +42,7 @@ Engenhobot/
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/Engenhobot.git
+   git clone https://github.com/rootAlvim/Engenhobot.git
 Abra o arquivo Pag1.html diretamente no navegador.
 
 📌 Status do Projeto
